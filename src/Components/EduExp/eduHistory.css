@@ -1,0 +1,13 @@
+.edu-title{
+    text-align: left;
+}
+
+.edu-title h5{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.edu-title small{
+    margin: 10px;
+}
